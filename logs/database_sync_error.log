@@ -1,0 +1,8 @@
+Tue Nov 14 2023 18:58:48 GMT+0800 (中国标准时间) - Access denied for user 'root'@'localhost' (using password: YES)
+Tue Nov 14 2023 18:58:54 GMT+0800 (中国标准时间) - Access denied for user 'root'@'localhost' (using password: YES)
+Tue Nov 14 2023 18:59:05 GMT+0800 (中国标准时间) - Access denied for user 'root'@'localhost' (using password: YES)
+Tue Nov 14 2023 18:59:52 GMT+0800 (中国标准时间) - Unknown database 'nod1e'
+Wed Nov 15 2023 00:41:53 GMT+0800 (中国标准时间) - Failed to open the referenced table 'post'
+Wed Nov 15 2023 00:42:07 GMT+0800 (中国标准时间) - Referencing column 'postId' and referenced column 'id' in foreign key constraint 'posttags_ibfk_1' are incompatible.
+Wed Nov 15 2023 00:42:23 GMT+0800 (中国标准时间) - Referencing column 'postId' and referenced column 'id' in foreign key constraint 'posttags_ibfk_1' are incompatible.
+Wed Nov 15 2023 00:43:10 GMT+0800 (中国标准时间) - Referencing column 'postId' and referenced column 'id' in foreign key constraint 'posttags_ibfk_1' are incompatible.
